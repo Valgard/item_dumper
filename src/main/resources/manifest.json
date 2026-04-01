@@ -1,0 +1,16 @@
+{
+    "Group": "Valgard",
+    "Name": "ItemDumper",
+    "Version": "1.0.0",
+    "Description": "Schreibt alle registrierten Item-IDs (inkl. Mods) beim Serverstart in eine Textdatei.",
+    "Authors": [
+        {
+            "Name": "Valgard"
+        }
+    ],
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true,
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "Main": "dev.valgard.itemdumper.ItemDumper"
+}
