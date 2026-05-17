@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sources/Logo 1.png" alt="Item Dumper Logo" width="128">
+  <img src="src/main/resources/Common/UI/Custom/Valgard_ItemDumper.png" alt="Item Dumper Logo" width="128">
 </p>
 
 <h1 align="center">Item Dumper</h1>
